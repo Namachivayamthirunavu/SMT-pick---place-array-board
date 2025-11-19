@@ -1,4 +1,3 @@
-<img width="1280" height="842" alt="image" src="https://github.com/user-attachments/assets/6dcb55f4-a349-43e2-a4b6-bbb5af22f557" /># SMT-pick-and-place-array-board
 # Aim:
 
 To automatically pick and place the SMD electronic components onto a array bare PCB accurately using an SMT pick-and-place machine.
